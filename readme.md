@@ -1,7 +1,10 @@
 # 使用Java创造你的第一个区块链
+Original address (English ver): https://medium.com/programmers-blockchain/create-simple-blockchain-java-tutorial-from-scratch-6eeed3cb03fa
+
+*该repo用于学习与记录,主要为区块链相关博文翻译以及相应实践。想获取更多信息请点击以上原文链接。*
 
 本教程系列的目的是帮助你了解开发区块链相关的技术。<br/>
-（原文地址：https://medium.com/programmers-blockchain/create-simple-blockchain-java-tutorial-from-scratch-6eeed3cb03fa）
+
 
 在本教程中，我们将获得以下的体验：
 创建一个非常基本的区块链。
